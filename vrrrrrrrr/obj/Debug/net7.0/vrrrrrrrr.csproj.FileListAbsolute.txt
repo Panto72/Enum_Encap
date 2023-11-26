@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\vrrrrrrrr\vrrrrrrrr\bin\Debug\net7.0\vrrrrrrrr.exe
+C:\Users\User\source\repos\vrrrrrrrr\vrrrrrrrr\bin\Debug\net7.0\vrrrrrrrr.deps.json
+C:\Users\User\source\repos\vrrrrrrrr\vrrrrrrrr\bin\Debug\net7.0\vrrrrrrrr.runtimeconfig.json
+C:\Users\User\source\repos\vrrrrrrrr\vrrrrrrrr\bin\Debug\net7.0\vrrrrrrrr.dll
+C:\Users\User\source\repos\vrrrrrrrr\vrrrrrrrr\bin\Debug\net7.0\vrrrrrrrr.pdb
+C:\Users\User\source\repos\vrrrrrrrr\vrrrrrrrr\obj\Debug\net7.0\vrrrrrrrr.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\vrrrrrrrr\vrrrrrrrr\obj\Debug\net7.0\vrrrrrrrr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\vrrrrrrrr\vrrrrrrrr\obj\Debug\net7.0\vrrrrrrrr.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\vrrrrrrrr\vrrrrrrrr\obj\Debug\net7.0\vrrrrrrrr.AssemblyInfo.cs
+C:\Users\User\source\repos\vrrrrrrrr\vrrrrrrrr\obj\Debug\net7.0\vrrrrrrrr.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\vrrrrrrrr\vrrrrrrrr\obj\Debug\net7.0\vrrrrrrrr.dll
+C:\Users\User\source\repos\vrrrrrrrr\vrrrrrrrr\obj\Debug\net7.0\refint\vrrrrrrrr.dll
+C:\Users\User\source\repos\vrrrrrrrr\vrrrrrrrr\obj\Debug\net7.0\vrrrrrrrr.pdb
+C:\Users\User\source\repos\vrrrrrrrr\vrrrrrrrr\obj\Debug\net7.0\vrrrrrrrr.genruntimeconfig.cache
+C:\Users\User\source\repos\vrrrrrrrr\vrrrrrrrr\obj\Debug\net7.0\ref\vrrrrrrrr.dll
